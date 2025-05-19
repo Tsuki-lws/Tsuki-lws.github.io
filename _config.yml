@@ -25,7 +25,7 @@ author:
   # avatar           : "profile.png"
   name             : "Binze Hu(胡彬泽)"
   pronouns         : "he/his"  
-  bio              : "A student who is actively exploring"
+  bio              : # "A student who is actively exploring"
   location         : "China"
   # employer         : "Fudan University"
   # uri              : 
